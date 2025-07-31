@@ -1,2 +1,0 @@
-# PHP-projects
-php projects
